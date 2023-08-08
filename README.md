@@ -6,8 +6,11 @@ Welcome to the GitHub repository for the POS (Point-of-Sale) System project – 
 
 ## Project Details 
 Project Type: Group Project for Academic Assignment
-Team Leadership: Led a team of 5 talented individuals
-Achievement: Achieved over 80% – securing the top position
+
+Team Leadership: Led a team of 5 talented individuals.
+
+Achievement: Achieved over 80% – securing a 1st.
+
 Key Focus: Teamwork, Collaboration, Communication.
 
 ## Highlights
