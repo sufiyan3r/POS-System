@@ -4,11 +4,11 @@ POS (Point-of-Sale) System made using C# in .NET with the use of MsSQL for Costa
 ## Project Overview
 Welcome to the GitHub repository for the POS (Point-of-Sale) System project – a collaborative effort that brings together decades of experience in software development, programming, and team leadership. As a seasoned team lead and developer with over 25 years of expertise, I'm excited to present the culmination of our efforts in this comprehensive Point-of-Sale solution.
 
-## Project Details
-## Project Type: Group Project for Academic Assignment
-### Team Leadership: Led a team of 5 talented individuals
-### Achievement: Achieved over 80% – securing the top position
-### Key Focus: Teamwork, Collaboration, Communication
+## Project Details 
+Project Type: Group Project for Academic Assignment
+Team Leadership: Led a team of 5 talented individuals
+Achievement: Achieved over 80% – securing the top position
+Key Focus: Teamwork, Collaboration, Communication.
 
 ## Highlights
 Orchestrated the team, fostering an environment of open collaboration, effective communication, and proactive knowledge sharing.
