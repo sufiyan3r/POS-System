@@ -10,7 +10,7 @@ Team Leadership: Led a team of 5 talented individuals
 Achievement: Achieved over 80% – securing the top position
 Key Focus: Teamwork, Collaboration, Communication
 
-##Highlights
+## Highlights
 Orchestrated the team, fostering an environment of open collaboration, effective communication, and proactive knowledge sharing.
 The project encompassed various departments of application development, reflecting a holistic approach to problem-solving.
 Our journey culminated in a comprehensive MVP (Minimum Viable Product), representing a significant milestone of achievement.
