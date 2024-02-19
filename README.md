@@ -6,14 +6,14 @@ Crafted through innovative design, agile development, and expert collaboration, 
 <br>
 
 ## Project Overview
-Welcome to the GitHub repository for the POS (Point-of-Sale) System project – a collaborative effort that brings together decades of experience in software development, programming, and team leadership. As a seasoned team lead and developer with over 25 years of expertise, I'm excited to present the culmination of our efforts in this comprehensive Point-of-Sale solution. <br><br><br>
+Welcome to the GitHub repository for the POS (Point-of-Sale) System project – a collaborative effort that brings together years of experience in software development, programming, and team leadership. As the team lead and developer with over 3 years of expertise, I'm excited to present the culmination of our efforts in this comprehensive Point-of-Sale solution. <br><br><br>
 
 ## Project Details & Highlights
 Project Type: Group Project for Academic Assignment. <br>
 
 - Team Leadership: Led a team of 5 talented individuals. <br>
 
-- Achievement: Achieved over 80% – securing a 1st. <br>
+- Achievement: Achieved over 80% – securing a First-Class Honours (1:1) in the module and overall year. <br>
 
 - Key Focus: Teamwork, Agile, Leadership, Collaboration, & Communication Skills. <br>
 
